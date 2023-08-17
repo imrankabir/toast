@@ -1,0 +1,17 @@
+{
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "index.js",
+  "scripts": {
+    "build-js": "minify src/toast.js > dist/js/toast.min.js",
+    "build-css": "minify src/toast.css > dist/css/toast.min.css",
+    "build-style-css": "minify src/style.css > dist/css/style.min.css"
+  },
+  "keywords": [
+    "toast",
+    "notification"
+  ],
+  "author": "Imran Kabir",
+  "license": "ISC"
+}

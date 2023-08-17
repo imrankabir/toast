@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	column-gap: 20px;
+	align-items: center;
+	height: 100vh;
+}
+
+button {
+	background: #ddd;
+	border: 1px solid #999;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+button:hover {
+	background: #666;
+	color: #eee;
+	cursor: pointer;
+}
