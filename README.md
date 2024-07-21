@@ -1,9 +1,10 @@
 ## Installation
 
-clone repository `imrankabir/toast`
+### Step 1. clone repository `imrankabir/toast`
 
-node and npm should be install
+### Note: node and npm should be install
 
+```
 npm install -g minify
 
 npm run build-js
@@ -11,3 +12,4 @@ npm run build-js
 npm run build-css
 
 npm run build-style-css
+```
