@@ -4,7 +4,6 @@
   right: 20px;
   z-index: 9999;
 }
-
 .toast {
   background: #333;
   color: #fff;
@@ -13,19 +12,15 @@
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-
 .success {
   background: green;
 }
-
 .error {
   background: red;
 }
-
 .warning {
   background: darkorange;
 }
-
 .info {
   background: lightskyblue;
   color: #333;

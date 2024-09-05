@@ -10,7 +10,7 @@ const toast = {
     body.append(toast);
     return this;
   },
-  show(message = "This is a toast message.", className = "success") {
+  show(message = "This is a toast message.", className = "") {
     const toast = document.createElement("div");
     const toastContainer = document.querySelector("#toastContainer");
     toast.className = className ? `toast ${className}` : "toast";
