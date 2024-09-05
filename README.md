@@ -1,3 +1,7 @@
+# You can use it on the following link
+
+Click to see [Toast Demo](https://imrankabir.github.io/toast)
+
 ## Installation
 
 ### Step 1. 
